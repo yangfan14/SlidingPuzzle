@@ -1,4 +1,4 @@
-# Program of the classic game -- sliding puzzle
+# Program of the Classic Game -- Sliding Puzzle
 
 ### General Introduction
 - [ ] A fully functioning sliding puzzle game in Python with GUI interface
