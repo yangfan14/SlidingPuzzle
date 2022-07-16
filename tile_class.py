@@ -1,6 +1,9 @@
 """
     Project: Puzzle Slider Game -- Tile class
     This is the class of the active tiles in the play area
+
+    0715 modified: the tiles no longer draw frames of themselves, so loading
+    can be faster
 """
 import turtle
 
@@ -36,7 +39,7 @@ class Tile(MyTurtle):
         self.index, self.pos_index = index, pos_index
         if 'blank' in shape:        # mark the blank tile index in the list
             self.game.set_blank_index(pos_index)
-        self.draw_frame(my_game.get_tile_size())
+        # self.draw_frame(my_game.get_tile_size())
         self._ts.register_shape(shape)
         self.shape(shape)
         self.showturtle()           # appear!

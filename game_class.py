@@ -1,6 +1,8 @@
 """
     Project: Puzzle Slider Game -- Game class
     It is the main functional part of the project
+
+    0715 modified: the background color is changed to enable a better UI
 """
 
 import turtle
@@ -37,6 +39,7 @@ class Game:
         self.ts = turtle.Screen()          # the main window of the game
         self.ts.title(WINDOW_TITLE)        # set the window title
         self.ts.setup(WINDOW_SIZE[0], WINDOW_SIZE[1])  # set the window size
+        self.ts.bgcolor("lightgreen")
         turtle.hideturtle()
         self.player_name = 'Unknown Player'    # default player_name
         self.max_move_num = 50                 # default maximum move number

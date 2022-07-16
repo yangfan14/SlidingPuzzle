@@ -18,7 +18,7 @@ IMAGE_DICT = {'splash': 'Resources/splash_screen.gif',
 CORS_DICT = {'leaders_text': (160, 270),
              'move_title': (-320, -260),
              'move_counter': (-180, -260),
-             'thumbnail': (300, 260)}
+             'thumbnail': (310, 280)}
 
 # value format: [left-top coordinate, (width, height), color, thickness]
 FRAME_DICT = {'play_area': [(-350, 320), (460, 460), 'black', '6'],

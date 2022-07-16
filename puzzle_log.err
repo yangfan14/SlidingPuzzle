@@ -1,2 +1,4 @@
 Fri Mar 18 14:21:02 2022:  Error: File 'smail' does not exist.  LOCATION: Game.get_new_selection()
 Fri Mar 18 16:32:01 2022:  Error: Could not open leaderboard.txt.  LOCATION: Game.read_leaderboard_file()
+Tue Jul  5 19:30:40 2022:  Error: Could not open leaderboard.txt.  LOCATION: Game.read_leaderboard_file()
+Fri Jul 15 21:43:04 2022:  Error: Could not open leaderboard.txt.  LOCATION: Game.read_leaderboard_file()
