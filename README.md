@@ -13,34 +13,34 @@
 - [ ] User can also select to auto-unscramble the pieces, load new puzzles, or quit the game.
 - [ ] Available puzzles: mario(default), fifteen, luigi, smiley, yoshi.
 
-### Screenshots
+### Demo Screenshots
 
-![This is an image](screenshots/splash_screen.png)
+![This is an image](demo_screenshots/splash_screen.png)
 - the splash screen^
 
-![This is an image](screenshots/input_name.png)
+![This is an image](demo_screenshots/input_name.png)
 - input user name^
 
-![This is an image](screenshots/input_number.png)
+![This is an image](demo_screenshots/input_number.png)
 - input maximum number of moves to use^
 
-![This is an image](screenshots/main_interface.png)
+![This is an image](demo_screenshots/main_interface.png)
 - the main interface^
 
-![This is an image](screenshots/reset_button.png)
+![This is an image](demo_screenshots/reset_button.png)
 - the reset button can be used to auto-unscramble the pieces^
 
-![This is an image](screenshots/load_more.png)
+![This is an image](demo_screenshots/load_more.png)
 - the load button can be used to load new puzzles^
 
-![This is an image](screenshots/user_win.png)
+![This is an image](demo_screenshots/user_win.png)
 - user win!^
 
-![This is an image](screenshots/user_quit.png)
+![This is an image](demo_screenshots/user_quit.png)
 - user select to quit^
 
-![This is an image](screenshots/exit_screen.png)
+![This is an image](demo_screenshots/exit_screen.png)
 - the exit screen^
 
-![This is an image](screenshots/error_alert.png)
+![This is an image](demo_screenshots/error_alert.png)
 - the alert when no leaders has been added yet^
